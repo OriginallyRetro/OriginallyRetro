@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @OriginallyRetro
-- 👀 I’m interested in Programming Game Programmer
-- 🌱 I’m currently learning Python, looking to learn a game engine.
-- 💞️ I’m looking to collaborate on making games
-- 📫 How to reach me: Comment on a repository 
-- 😄 Pronouns: Him
-
-<!---
-OriginallyRetro/OriginallyRetro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @OriginallyRetro/Myles Cooke
+- 👀 I’m interested in Software Developer
+- 🌱 I’m currently learning Software development, and VideoGame development as an hobby.
+- 💞️ I’m looking to find internships and apprentinceships on software development. As well as general continuous learning in the field.
+- 📫 How to reach me: Comment on a repository or my gmail: therealofficialmc@gmail.com
+- 😄 Pronouns: He/Him
